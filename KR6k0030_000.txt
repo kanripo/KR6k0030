@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部毘奈耶羯恥那衣事
+#+DATE: 2015-08-30 20:41:58.382820
+#+PROPERTY: JUAN 0
